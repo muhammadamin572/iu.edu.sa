@@ -99,8 +99,7 @@
       <div class="center">المملكة العربية السعودية<br>Kingdom of Saudi Arabia</div>
       <img src="decor.png" alt="Decor">
     </div>
-
-    <!-- Title -->
+  
     <h2>تقرير إجازة مرضية</h2>
     <h3>Sick Leave Report</h3>
 
